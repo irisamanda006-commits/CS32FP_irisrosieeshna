@@ -10,7 +10,7 @@ Goals are to:
 - Provide a simple, user-friendly experience for beginners
 
 Features
-User input for goals: Users can enter daily targets (calories, protein, carbs, fat).
-Custom meal plan generator: Suggests meals based on user goals and available food options.
-Nutrition tracking: Tracks total intake and compares it to goals.
-Harvard Square focused options: Meals can be tailored to foods commonly available in the Square.
+- User input for goals: Users can enter daily targets (calories, protein, carbs, fat).
+- Custom meal plan generator: Suggests meals based on user goals and available food options.
+- Nutrition tracking: Tracks total intake and compares it to goals.
+- Harvard Square focused options: Meals can be tailored to foods commonly available in the Square.
