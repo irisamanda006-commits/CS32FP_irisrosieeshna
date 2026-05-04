@@ -20,7 +20,7 @@ Usage
 
 Run the program:
 
-python bergbowlrecent_multi_serving_suggest.py
+python bergbowlrecent_removable_ingredients.py
 
 Then open port 8080 in cs50.dev.
 
