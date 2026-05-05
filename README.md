@@ -39,3 +39,5 @@ We used generative AI to:
 - generate and iterate on sprite visuals
 
 All final implementation, debugging, and design decisions were completed by our team.
+
+Note: The Berg Pal sprite images are stored in the `sprites/` folder, which must remain in the same project directory as `bergbowlrecent_removable_ingredients.py`.
